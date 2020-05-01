@@ -1,0 +1,9 @@
+venv
+.idea
+main/build
+main/dist
+main/__pycache__
+main/main.spec
+test/__pycache__
+application/__pycache__
+model/__pycache__
